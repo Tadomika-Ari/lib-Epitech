@@ -89,12 +89,6 @@ SRC	= ./lib/my/my_compute_power_rec.c \
 	  ./my_printf/lib/my/ressource/calcul.c \
 	  ./my_printf/lib/my/ressource/put_expo.c \
 	  ./my_printf/lib/my/ressource/eexe_put.c \
-	  ./option/option_a.c \
-	  ./option/without_function.c \
-	  ./option/only_path.c \
-	  ./option/option_d.c \
-	  ./option/option_l.c \
-	  ./ressource/copy_path.c \
 	  ./my_printf/lib/my/ressource/my_ispadding.c
 
 OBJ	= $(SRC:.c=.o)
