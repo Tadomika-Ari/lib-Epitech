@@ -5,7 +5,7 @@
 ** task faite
 */
 
-int my_str_is_printable(char const *str)
+int my_str_isprintable(char const *str)
 {
     int i = 0;
 
