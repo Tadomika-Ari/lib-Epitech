@@ -5,6 +5,8 @@ cd "lib-Epitech-main"
 cd "dossier_lib"
 cp -r lib "../../"
 cp -r include "../.."
+cp -r my_printf "../.."
+cp Makefile "../.."
 cd ..
 cd ..
 rm -rf "lib-Epitech-main"
